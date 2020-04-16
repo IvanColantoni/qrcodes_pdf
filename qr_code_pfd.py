@@ -15,7 +15,7 @@
 # and saved as sample.jpeg in the corresponding folder. Any time you make a run the CODE_LIST is updated, your tickets are stored in tickets/FOLDER_A or B. you can check it and 
 #then manually move it to the archive once you're sure you made it right. Remember to change path to folders in the code.
 
-
+##########################
 import qrcode 
 import secrets 
 from PIL import Image 
